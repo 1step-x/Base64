@@ -11,10 +11,17 @@ Base64主要是将任意的字符转换成特定的字符(Base64码)，并将遵
  6. 对于最后有两个字符的ACSII码，在16bit后被2bit的0，并且补"="
 
 `Base64 编码表`
+
  ![Base64 Table](http://photo2.bababian.com/upload7/20160407/4C0A5E614A73DD81DE66A811687B7071.jpg)
+ 
 `正常的3Bytes ASCII字符编码`
+
 ![3Bytes](http://photo2.bababian.com/upload7/20160407/70263E2F69EF28B7AC30551607F28126.jpg)
+
 `2Bytes ASCII字符编码`
+
 ![Alt text](http://photo2.bababian.com/upload7/20160407/363AA70C7824EB31F55CCA59F63623AF.jpg)
+
 `1Byte ASCII字符编码`
+
 ![Alt text](http://photo2.bababian.com/upload7/20160407/70263E2F69EF28B7AC30551607F28126.jpg)
